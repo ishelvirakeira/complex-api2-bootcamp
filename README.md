@@ -2,21 +2,12 @@
 
 ### Goal: Use data returned from one api to make a request to another api and display the data returned
 
-### How to submit your code for review:
+This music/lyrics API project allows a user to enter an artist name and a song title and then display the artist information from the MusicBrainz API and their song lyrics from the Lyrics.ovh API.
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+<img width="649" height="432" alt="music" src="https://github.com/user-attachments/assets/1cd14b8e-6c42-4382-b912-1434041c6ad9" />
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+
+Tools used: HTML, CSS, and JavaScript, APIs
+
+I learned how to read nested data structures such as arrays and objects from APIs and how to style the lyrics section by using overflow-y.
+
